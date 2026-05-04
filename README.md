@@ -3,6 +3,7 @@
 This repository contains my internship tasks completed for ApexcifyTechnologys using C++.
 
 **Task Completed:**
+
 **Task 1: CGPA Calculator**
 - A simple Command Prompt based c++ program that takes multiple courses info, calculates gpa and displays the academic standing.
 
