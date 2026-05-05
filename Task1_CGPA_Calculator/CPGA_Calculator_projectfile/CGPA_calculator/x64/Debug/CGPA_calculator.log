@@ -1,8 +1,0 @@
-﻿  main.cpp
-S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\CGPA_calculator\main.cpp(32,31): warning C4305: 'return': truncation from 'double' to 'float'
-S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\CGPA_calculator\main.cpp(33,31): warning C4305: 'return': truncation from 'double' to 'float'
-S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\CGPA_calculator\main.cpp(35,31): warning C4305: 'return': truncation from 'double' to 'float'
-S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\CGPA_calculator\main.cpp(36,31): warning C4305: 'return': truncation from 'double' to 'float'
-S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\CGPA_calculator\main.cpp(38,31): warning C4305: 'return': truncation from 'double' to 'float'
-S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\CGPA_calculator\main.cpp(39,31): warning C4305: 'return': truncation from 'double' to 'float'
-  CGPA_calculator.vcxproj -> S:\Projects BY me\ApexcifyTechnologys_Cpp\Task1_CGPA_Calculator\CPGA_Calculator_projectfile\x64\Debug\CGPA_calculator.exe
