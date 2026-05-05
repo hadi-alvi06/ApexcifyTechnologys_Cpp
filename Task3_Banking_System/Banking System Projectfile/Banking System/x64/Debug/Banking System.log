@@ -1,0 +1,4 @@
+﻿  main.cpp
+S:\Projects BY me\ApexcifyTechnologys_Cpp\Task3_Banking_System\Banking System Projectfile\Banking System\main.cpp(320,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+S:\Projects BY me\ApexcifyTechnologys_Cpp\Task3_Banking_System\Banking System Projectfile\Banking System\main.cpp(321,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Banking System.vcxproj -> S:\Projects BY me\ApexcifyTechnologys_Cpp\Task3_Banking_System\Banking System Projectfile\x64\Debug\Banking System.exe

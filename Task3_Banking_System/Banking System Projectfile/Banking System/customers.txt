@@ -1,0 +1,2 @@
+CUST1001|Haroon|2233|Haroon ahmed|h@gmail.com|03324324333
+CUST1002|hadi|787|Hadi Ahmed Alvi|H1@gmail.com|03879736838

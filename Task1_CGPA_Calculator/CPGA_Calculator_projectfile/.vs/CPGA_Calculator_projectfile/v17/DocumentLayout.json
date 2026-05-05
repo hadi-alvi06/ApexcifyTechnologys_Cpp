@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Projects BY me\\ApexcifyTechnologys_Cpp\\Task1_CGPA_Calculator\\CPGA_Calculator_projectfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1476D76-166D-453B-B7D5-EA715B1E9434}|CGPA_calculator\\CGPA_calculator.vcxproj|S:\\Projects BY me\\ApexcifyTechnologys_Cpp\\Task1_CGPA_Calculator\\CPGA_Calculator_projectfile\\CGPA_calculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1476D76-166D-453B-B7D5-EA715B1E9434}|CGPA_calculator\\CGPA_calculator.vcxproj|solutionrelative:CGPA_calculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "S:\\Projects BY me\\ApexcifyTechnologys_Cpp\\Task1_CGPA_Calculator\\CPGA_Calculator_projectfile\\CGPA_calculator\\main.cpp",
+              "RelativeDocumentMoniker": "CGPA_calculator\\main.cpp",
+              "ToolTip": "S:\\Projects BY me\\ApexcifyTechnologys_Cpp\\Task1_CGPA_Calculator\\CPGA_Calculator_projectfile\\CGPA_calculator\\main.cpp",
+              "RelativeToolTip": "CGPA_calculator\\main.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T16:03:52.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
